@@ -81,7 +81,7 @@ MIT – feel free to fork, vendor, or PR improvements.
 
 ## 🤝 Contributing
 
-Issues and PRs welcome in the [SpecPilot repo](https://github.com/your-org/specpilot).  
+Issues and PRs welcome in the [SpecPilot repo](https://github.com/redmoon0x/SpecPilot-).  
 Add your own editor integration under `/integrations`.
 
 ---
